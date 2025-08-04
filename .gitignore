@@ -1,5 +1,7 @@
 */target/
 */*/target/
+*/.git_bak/
+*/*/.git_bak/
 */.DS_Store
 */.idea
 */.vscode
