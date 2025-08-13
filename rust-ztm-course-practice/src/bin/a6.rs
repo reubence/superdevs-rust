@@ -17,4 +17,5 @@ fn main() {
 
         my_var -= 1;
     }
+    println!("Done");
 }
